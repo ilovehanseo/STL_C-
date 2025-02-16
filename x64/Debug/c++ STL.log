@@ -1,0 +1,4 @@
+﻿  STL 1day.cpp
+C:\Users\hanse\source\repos\c++ STL\c++ STL\STL 1day.cpp(18,10): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hanse\source\repos\c++ STL\c++ STL\STL 1day.cpp(19,10): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  c++ STL.vcxproj -> C:\Users\hanse\source\repos\c++ STL\x64\Debug\c++ STL.exe
